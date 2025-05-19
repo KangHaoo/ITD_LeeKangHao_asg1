@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: Image Marker Library
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5322370853306842485
+  m_GuidHigh: 6891196725252215973
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4621768656563735431
+      m_GuidHigh: 13129402082019975555
+    m_SerializedTextureGuid:
+      m_GuidLow: 16441349133395729373
+      m_GuidHigh: 18183497518203967064
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: zaku
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5421526965671250439
+      m_GuidHigh: 4073648085736174265
+    m_SerializedTextureGuid:
+      m_GuidLow: 12977781597307662005
+      m_GuidHigh: 14297711914084799611
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: kirito
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4704850192483202979
+      m_GuidHigh: 1849253551084253079
+    m_SerializedTextureGuid:
+      m_GuidLow: 10685526702104577595
+      m_GuidHigh: 6573598535437600520
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: irongiant
+    m_Texture: {fileID: 0}
